@@ -1,0 +1,30 @@
+■ Responsible AI Detective Blog: Two Cases of AI
+Gone a Bit Rogue
+■■ Case 1: The Hiring Bot with Selective Memory
+What’s happening: A company is using an AI tool to screen job applications. On paper, it’s supposed
+to speed up hiring by spotting the 'best' candidates. But in practice, it keeps rejecting women who took
+career breaks (like maternity leave).
+What’s problematic:
+■■ Fairness issue: The bot is biased. It sees career gaps as a negative, even when they’re for valid
+reasons.
+■ Hidden discrimination: This disproportionately affects women, especially mothers.
+■■ Lack of accountability: The company can’t clearly explain why these applicants were rejected.
+Improvement idea: Train the AI on diverse data that includes applicants with career gaps. Add a
+human review layer for flagged applications to make sure talent isn’t wasted. Basically: less robot bias,
+more human sense.
+■■ Case 2: The Overzealous School Proctor
+What’s happening: An online proctoring AI is tasked with catching cheaters during exams by tracking
+students’ eye movements. Sounds strict, right? Problem is — it often flags neurodivergent students or
+those with certain disabilities as 'suspicious,' even when they’re not cheating.
+What’s problematic:
+■■ Fairness issue: It penalizes students with different behaviors (like ADHD, autism, or anxiety).
+■ Privacy concern: Constant camera surveillance can feel invasive.
+■ False positives: Innocent students are stressed out and unfairly accused.
+Improvement idea: Use multiple signals instead of just eye movement (e.g., keyboard/mouse activity,
+unusual audio, or unusual browsing). And always have a human reviewer check flagged cases before
+accusing students. Trust is built with fairness + transparency, not just surveillance.
+■ Wrap-Up: Lessons from the Detective Desk
+AI can be amazing — but only when it’s fair, transparent, and accountable. In these cases, both the
+hiring bot and the exam proctor forgot that people aren’t just data points. If we design AI with inclusivity
+in mind and keep humans in the loop, we can build systems that actually help instead of harm.
+Remember: responsible AI = smarter + fairer + kinder tech.
